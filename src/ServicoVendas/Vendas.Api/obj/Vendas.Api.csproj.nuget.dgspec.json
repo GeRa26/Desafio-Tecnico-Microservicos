@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Api\\Vendas.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Api\\Vendas.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Api\\Vendas.Api.csproj",
+        "projectName": "Vendas.Api",
+        "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Api\\Vendas.Api.csproj",
+        "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Application\\Vendas.Application.csproj": {
+                "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Application\\Vendas.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Application\\Vendas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Application\\Vendas.Application.csproj",
+        "projectName": "Vendas.Application",
+        "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Application\\Vendas.Application.csproj",
+        "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+                "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\Vendas.Domain.csproj"
+              },
+              "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Infrastructure\\Vendas.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Infrastructure\\Vendas.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "projectName": "Vendas.Domain",
+        "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Infrastructure\\Vendas.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Infrastructure\\Vendas.Infrastructure.csproj",
+        "projectName": "Vendas.Infrastructure",
+        "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Infrastructure\\Vendas.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+                "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoVendas\\Vendas.Domain\\Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

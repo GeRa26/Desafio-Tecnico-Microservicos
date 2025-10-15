@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Estoque.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Estoque.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Estoque.Domain.dll": {}
+        }
+      },
+      "Estoque.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Estoque.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Estoque.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Estoque.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estoque.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Estoque.Domain/Estoque.Domain.csproj",
+      "msbuildProject": "../Estoque.Domain/Estoque.Domain.csproj"
+    },
+    "Estoque.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Estoque.Infrastructure/Estoque.Infrastructure.csproj",
+      "msbuildProject": "../Estoque.Infrastructure/Estoque.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Estoque.Domain >= 1.0.0",
+      "Estoque.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\geral\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoEstoque\\Estoque.Application\\Estoque.Application.csproj",
+      "projectName": "Estoque.Application",
+      "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoEstoque\\Estoque.Application\\Estoque.Application.csproj",
+      "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoEstoque\\Estoque.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoEstoque\\Estoque.Domain\\Estoque.Domain.csproj": {
+              "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoEstoque\\Estoque.Domain\\Estoque.Domain.csproj"
+            },
+            "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoEstoque\\Estoque.Infrastructure\\Estoque.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\geral\\OneDrive\\Área de Trabalho\\DESAFIO AVANADE\\projeto-avanade\\src\\ServicoEstoque\\Estoque.Infrastructure\\Estoque.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
