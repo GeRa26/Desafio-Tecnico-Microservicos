@@ -9,3 +9,10 @@ C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\Se
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\obj\Debug\net9.0\refint\Vendas.Infrastructure.dll
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\obj\Debug\net9.0\Vendas.Infrastructure.pdb
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\obj\Debug\net9.0\ref\Vendas.Infrastructure.dll
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\bin\Debug\net9.0\Vendas.Infrastructure.runtimeconfig.json
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\bin\Debug\net9.0\Vendas.Domain.dll
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\bin\Debug\net9.0\Vendas.Domain.pdb
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\obj\Debug\net9.0\Vendas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\obj\Debug\net9.0\Vendas.Infrastructure.sourcelink.json
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\obj\Debug\net9.0\Vendas.I.CB2C0897.Up2Date
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Infrastructure\obj\Debug\net9.0\Vendas.Infrastructure.genruntimeconfig.cache

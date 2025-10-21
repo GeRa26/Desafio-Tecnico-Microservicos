@@ -9,3 +9,10 @@ C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\Se
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\obj\Debug\net9.0\refint\Vendas.Application.dll
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\obj\Debug\net9.0\Vendas.Application.pdb
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\obj\Debug\net9.0\ref\Vendas.Application.dll
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\bin\Debug\net9.0\Vendas.Domain.dll
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\bin\Debug\net9.0\Vendas.Infrastructure.dll
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\bin\Debug\net9.0\Vendas.Domain.pdb
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\bin\Debug\net9.0\Vendas.Infrastructure.pdb
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\obj\Debug\net9.0\Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\obj\Debug\net9.0\Vendas.Application.sourcelink.json
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Application\obj\Debug\net9.0\Vendas.A.4EC8CC58.Up2Date

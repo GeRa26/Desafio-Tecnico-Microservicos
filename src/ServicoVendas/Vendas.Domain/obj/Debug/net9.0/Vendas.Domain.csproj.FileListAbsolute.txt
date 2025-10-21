@@ -9,3 +9,4 @@ C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\Se
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Domain\obj\Debug\net9.0\refint\Vendas.Domain.dll
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.pdb
 C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Domain\obj\Debug\net9.0\ref\Vendas.Domain.dll
+C:\Users\geral\OneDrive\Área de Trabalho\DESAFIO AVANADE\projeto-avanade\src\ServicoVendas\Vendas.Domain\obj\Debug\net9.0\Vendas.Domain.sourcelink.json

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "Estoque.Api/1.0.0": {
         "dependencies": {
+          "Estoque.Application": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.4"
         },
         "runtime": {
@@ -32,6 +33,37 @@
             "fileVersion": "1.6.17.0"
           }
         }
+      },
+      "Estoque.Application/1.0.0": {
+        "dependencies": {
+          "Estoque.Domain": "1.0.0",
+          "Estoque.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Estoque.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Estoque.Domain/1.0.0": {
+        "runtime": {
+          "Estoque.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Estoque.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Estoque.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Estoque.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -54,6 +86,21 @@
       "sha512": "sha512-Le+kehlmrlQfuDFUt1zZ2dVwrhFQtKREdKBo+rexOwaCoYP0/qpgT9tLxCsZjsgR5Itk1UKPcbgO+FyaNid/bA==",
       "path": "microsoft.openapi/1.6.17",
       "hashPath": "microsoft.openapi.1.6.17.nupkg.sha512"
+    },
+    "Estoque.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Estoque.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Estoque.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
